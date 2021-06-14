@@ -29,7 +29,7 @@ public class View {
 			case 0:
 
 				page = case0();
-				//EWEW
+				//EWEW\//fdsfdsdsf
 				break;
 
 			case 1: // 회원가입
